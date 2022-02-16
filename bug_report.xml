@@ -1,1 +1,9 @@
-
+<bug_report>
+<Number>1</Number>
+<Summary>На главном экране при запуске приложения не кликается кнопка Start</Summary>
+<Description>При первом запуске приложения не кликается кнопка Start на главном экране</Description>
+<Steps_to_reproduse>Открыть приложение Нажать кнопку Start</Steps_to_reproduse>
+<Expected_result>Игра запускается при нажатии на кнопку Start на главном экране</Expected_result>
+<Actual_result>При нажатии на кнопку Start на главном экране ничего не происходит</Actual_result>
+<PrintScreen>Photo File</PrintScreen>
+</bug_report>
